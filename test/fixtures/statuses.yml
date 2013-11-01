@@ -1,9 +1,7 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  nom: MyString
-  contenu: MyText
+  contenu: "Un peu de text"
 
 two:
-  nom: MyString
-  contenu: MyText
+  contenu: "My new text"
